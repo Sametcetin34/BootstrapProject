@@ -1,0 +1,70 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+   
+}
+.win{
+    padding: 15px;
+    background-color: rgb(216, 216, 216);
+}
+.form-select{
+    background-color:  rgb(216, 216, 216);
+    font-size: 18px;
+  
+}
+.name{
+    float: right;
+    align-content: center;
+    
+}
+.akbank{
+    background-color: red;
+    padding: 15px;
+    padding-bottom: 8px;
+  
+}
+.logoak{
+   display: inline-block;
+    margin-bottom: 8px;
+   
+}
+.text{
+   
+    float: right;
+    align-content: center;
+}
+
+.tablo{
+    display: inline-block;
+    height: 30%;
+    width: 35%;
+    margin-top: 40px;
+    margin-left: 50px;
+    border: 1px solid rgb(226, 224, 224);
+    border-radius: 3px;
+    margin-right: 5%;
+    
+}
+i{
+    font-size: 50px;
+    color: red;
+}
+.real{
+    font-size: 15px;
+    text-decoration: none;
+    color:red;
+}
+.ev{
+    display: inline-block;
+    height: 8%;
+    width: 8%;
+  
+}
+
+.tablo2{
+    display: inline-block;
+    height: 40%;
+    width: 50%;
+    margin-left:5%;
+}
